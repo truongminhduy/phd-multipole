@@ -1,8 +1,8 @@
 # DQNM expansion in 2D with multipole permittivity
 
-*Application of DQNM expansion of electromagnetic fields in the 2D structure for both bounded and unbounded case: Difficulty encountered in the case of multipole permittivity*
+*Application of DQNM expansion of electromagnetic fields in the 2D structure for both bounded and unbounded cases: Difficulty encountered in the case of multipole permittivity*
 
-*Python and C++(for getdp and gmsh) code that reproduce the numerical results in the PhD manuscript [arXiv:2009.01307](https://arxiv.org/abs/2009.01307)*
+*Python and C++(for getdp and gmsh) code that reproduces the numerical results in the PhD manuscript [arXiv:2009.01307](https://arxiv.org/abs/2009.01307)*
 
 ## Affiliation
 
